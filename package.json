@@ -1,12 +1,13 @@
 {
-  "name": "todo_list",
+  "name": "exploding-cakes",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "axios": "^0.26.1",
+    "normalize.css": "^8.0.1",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "react-scripts": "^5.0.1",
-    "uuid": "^8.3.2"
+    "react-scripts": "0.9.5"
   },
   "devDependencies": {
     "create-react-component-folder": "^0.3.7"
